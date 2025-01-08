@@ -38,7 +38,6 @@ a {
 }
 
 .hamburger {
-  background-color: black;
   display: none;
   flex-direction: column;
   justify-content: center;
